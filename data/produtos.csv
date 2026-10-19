@@ -1,0 +1,31 @@
+id_produto,descricao,categoria,custo_unitario,estoque_minimo
+1,Disco de freio Nakata,Freios,381.82,15
+2,Pastilha de freio Bosch,Freios,352.09,26
+3,Correia dentada Nakata,Motor,146.16,18
+4,Filtro de óleo Bosch,Filtros,479.03,26
+5,Bateria 60Ah Nakata,Elétrica,60.08,29
+6,Amortecedor Nakata,Suspensão,57.39,27
+7,Disco de freio Bosch,Freios,305.83,7
+8,Bateria 60Ah Cobreq,Elétrica,367.57,39
+9,Pastilha de freio Nakata,Freios,71.16,29
+10,Correia dentada Cobreq,Motor,48.61,23
+11,Vela de ignição Cobreq,Motor,416.41,44
+12,Pastilha de freio Mahle,Freios,443.87,28
+13,Vela de ignição Mahle,Motor,292.9,50
+14,Filtro de ar Cobreq,Filtros,44.08,47
+15,Pastilha de freio Cobreq,Freios,121.67,23
+16,Bateria 60Ah Mahle,Elétrica,492.76,19
+17,Correia dentada Bosch,Motor,434.58,29
+18,Amortecedor Bosch,Suspensão,146.21,45
+19,Filtro de ar Mahle,Filtros,418.71,15
+20,Bateria 60Ah Bosch,Elétrica,191.39,18
+21,Filtro de óleo Cobreq,Filtros,338.39,49
+22,Vela de ignição Bosch,Motor,468.96,46
+23,Filtro de ar Bosch,Filtros,44.99,45
+24,Vela de ignição Nakata,Motor,93.86,20
+25,Disco de freio Mahle,Freios,90.07,29
+26,Correia dentada Mahle,Motor,142.27,45
+27,Filtro de óleo Nakata,Filtros,347.2,19
+28,Amortecedor Cobreq,Suspensão,345.46,8
+29,Filtro de ar Nakata,Filtros,122.23,7
+30,Filtro de óleo Mahle,Filtros,404.47,30
